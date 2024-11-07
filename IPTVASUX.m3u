@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport/ESPN",BT Sport/ESPN
+#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport/ESPN" tvg-logo="https://ibb.co/XXvSRh6",BT Sport/ESPN
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 1",BT Sport 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -25,7 +25,7 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 2",M.Liga de Campeones 2
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-#EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 3",M.Liga de Campeones 3
+#EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 3" tvg-logo,M.Liga de Campeones 3
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 4",M.Liga de Campeones 4
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
@@ -49,7 +49,7 @@ acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
 #EXTINF:-1 group-title="Ziggo Sport NE" tvg-id="Ziggo Sport",Ziggo Sport
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 group-title="Ziggo Sport NE" tvg-id="Ziggo Sport ,Ziggo Sport 2
+#EXTINF:-1 group-title="Ziggo Sport NE" tvg-id="Ziggo Sport 2",Ziggo Sport 2
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 group-title="Ziggo Sport NE" tvg-id="Ziggo Sport 3",Ziggo Sport 3
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
