@@ -21,6 +21,10 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 6 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",Eleven Sports 6 
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga", Dazn La Liga
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 2", Dazn La Liga 2
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 3", Dazn La Liga 3 
+#EXTINF:-1
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M.Liga de Campeones 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980662/Liga_de_Campeones_2_por_Movistar_Plus-_2023_juxjb0.png",M.Liga de Campeones 2
