@@ -7,19 +7,19 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 3 
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Copa" tvg-id="Copa Plus",Copa Plus
+#EXTINF:-1 group-title="Copa" tvg-id="Copa Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",Copa Plus
 acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
 #EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 1 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",Eleven Sports 1
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 2 BE",Eleven Sports 2
+#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 2 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981137/DAZN_2_2024_1_ld9ter.svg",Eleven Sports 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 3 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",Eleven Sports 3
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 4 BE",Eleven Sports 4
+#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 4 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",Eleven Sports 4
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 5 BE",Eleven Sports 5 
+#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 5 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",Eleven Sports 5 
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 6 BE",Eleven Sports 6 
+#EXTINF:-1 group-title="Eleven Sports PT" tvg-id="Eleven Sports 6 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",Eleven Sports 6 
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M.Liga de Campeones 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
