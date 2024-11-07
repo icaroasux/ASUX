@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXTINF:-1 group-tittle="BT Sport" tvg-id="BT Sport/ESPN",BT Sport/ESPN
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-tittle="BT Sport" tvg-id="BT Sport 1 UK",BT Sport 1 UK
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-tittle="BT Sport" tvg-id="BT Sport 2 UK",BT Sport 2
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-tittle="BT Sport" tvg-id="BT Sport 3 UK",BT Sport 3 
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-tittle="Copa" tvg-id="Copa Plus",Copa Plus
+acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
