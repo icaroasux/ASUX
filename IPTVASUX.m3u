@@ -39,13 +39,13 @@ acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 9",M.Liga de Campeones 9
 acestream://7244379f8f6382d40afec871fb8e4219a803840b
-#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 1",Sky Sport 1
+#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 1
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 2",Sky Sport 2 
+#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 2 
 acestream://ce4ae0c3491acd4272340029139ba25642e2516b
-#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 3",Sky Sport 3 
+#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 3 
 acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
-#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 4",Sky Sport 4
+#EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 4
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
 #EXTINF:-1 group-title="Ziggo Sport NE" tvg-id="Ziggo Sport" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
