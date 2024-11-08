@@ -17,6 +17,12 @@ acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986671/DAZN_4_2024_r10rej.png",Dazn 4
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="Dazn F1" tvg-id="Dazn F1 Multicamara" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg",Dazn F1 Multicamara
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
+#EXTINF:-1 group-title="Dazn F1" tvg-id="Dazn F1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="Dazn F1" tvg-id="Dazn F1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="Dazn PT" tvg-id="Eleven Sports 1 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",Eleven Sports 1
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 group-title="Dazn PT" tvg-id="Eleven Sports 2 BE" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",Eleven Sports 2
@@ -51,21 +57,27 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/NBA_TV_2017_n6fypt.png",NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="EuroSport" tvg-id="EuroSport 4K" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 4K
+acestream://c525471499b936decc037ea86e0f8125ebf78c28
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 1
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="M.La Liga Bar" tvg-id="M.La Liga Bar" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985895/LaLigaTV_2023_II_x6dlgu.png",M.La Liga Bar
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280 
 #EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga tv" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730996018/LaLigaTV_por_Movistar_Plus_2023_vbvlwk.png",M.La Liga tv
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png", M.La Liga 2
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png",M.La Liga 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2 720" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png", M.La Liga 2 720
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2 720" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png",M.La Liga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_3_por_Movistar_Plus2B_2023_ycawih.png", M.La Liga 3
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_3_por_Movistar_Plus2B_2023_ycawih.png",M.La Liga 3
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_4_por_Movistar_Plus2B_2023_qntnef.png", M.La Liga 4
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_4_por_Movistar_Plus2B_2023_qntnef.png",M.La Liga 4
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_5_por_Movistar_Plus2B_2023_rp2xww.png", M.La Liga 5
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_5_por_Movistar_Plus2B_2023_rp2xww.png",M.La Liga 5
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075748/LaLigaTV_6_por_Movistar_Plus_2B_2023_mndxs3.webp", M.La Liga 6
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075748/LaLigaTV_6_por_Movistar_Plus_2B_2023_mndxs3.webp",M.La Liga 6
 acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M.Liga de Campeones 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -87,17 +99,17 @@ acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
 acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077206/Deportes_por_Movistar_Plus__2023_rvkyys.png", M.Deportes
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_2_por_Movistar_Plus_2B_2023_ly7t2w.png", M.Deportes 2
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_2_por_Movistar_Plus_2B_2023_ly7t2w.png",M.Deportes 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_3_por_Movistar_Plus_2B_2023_sinsnf.png", M.Deportes 3
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_3_por_Movistar_Plus_2B_2023_sinsnf.png",M.Deportes 3
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077204/Deportes_4_por_Movistar_Plus_2B_2023_ouofmk.png", M.Deportes 4
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077204/Deportes_4_por_Movistar_Plus_2B_2023_ouofmk.png",M.Deportes 4
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_5_por_Movistar_Plus_2B_2023_pjxpig.png", M.Deportes 5
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_5_por_Movistar_Plus_2B_2023_pjxpig.png",M.Deportes 5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_6_por_Movistar_Plus_2B_2023_fkopuh.png", M.Deportes 6
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_6_por_Movistar_Plus_2B_2023_fkopuh.png",M.Deportes 6
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
-#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 7" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_7_por_Movistar_Plus__2023_yivy9p.png", M.Deportes 7
+#EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 7" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_7_por_Movistar_Plus__2023_yivy9p.png",M.Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M.otros" tvg-id="M.Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082399/movistar-plus-1_1_dxcg9b.png",M.Plus
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
@@ -105,6 +117,10 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="M.otros" tvg-id="#Ellas" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Ellas_Vamos_por_Movistar_Plus_bwk5pc.png",#Ellas
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="M.Otros" tvg-id="M.Golf" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083056/Golf_por_Movistar_Plus__2023_gznwol.png",M.Golf
+acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+#EXTINF:-1 group-title="M.otros" tvg-id="M.Golf 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083055/Golf_2_por_Movistar_Plus_2B_2023_wbavpf.png",M.Golf 2
+acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 1
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
 #EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 2 
