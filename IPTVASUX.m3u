@@ -99,11 +99,11 @@ acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 7" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_7_por_Movistar_Plus__2023_yivy9p.png", M.Deportes 7
 acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="M.otros" tvg-id="M.Plus",M-Plus
+#EXTINF:-1 group-title="M.otros" tvg-id="M.Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082399/movistar-plus-1_1_dxcg9b.png",M-Plus
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
-#EXTINF:-1 group-title="M.otros" tvg-id="#Vamos",#Vamos
+#EXTINF:-1 group-title="M.otros" tvg-id="#Vamos" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Vamos_por_Movistar_Plus__2023_ulzeww.png",#Vamos
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="M.otros" tvg-id="#Ellas",#Ellas
+#EXTINF:-1 group-title="M.otros" tvg-id="#Ellas" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Ellas_Vamos_por_Movistar_Plus_bwk5pc.png",#Ellas
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title="Sky Sport DE" tvg-id="Sky Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 1
 acestream://eec3f8107e008cec3679f76e078deeefd1348a3e
