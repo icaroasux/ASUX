@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport/ESPN" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport/ESPN
+#EXTINF:-1 tvg-name="BT Sport/ESPN" group-title="BT Sport UK" tvg-id="BT Sport/ESPN" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport/ESPN
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
