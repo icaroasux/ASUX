@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Dazn 1" tvg-id="Dazn 1", Dazn 1
-https://candler.beauty/vod.html?get=https://voodc.com/embed/858a94889a8486938799838b938b98858797.html
+#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 1", Dazn 1
+https://la12hd.com/vivo/canal.php?stream=dazn1
+#EXTINF:-1 group title="Dazn PT" tvg-id="Dazn 1", Dazn 1
+https://la12hd.com/vivo/canal.php?stream=eleven1_pt
