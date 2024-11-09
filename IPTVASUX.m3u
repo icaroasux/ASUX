@@ -75,9 +75,11 @@ acestream://c373da9e901d414b7384e671112e64d5a2310c29
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e 
 #EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga tv" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730996018/LaLigaTV_por_Movistar_Plus_2023_vbvlwk.png",M.La Liga tv
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga tv" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730996018/LaLigaTV_por_Movistar_Plus_2023_vbvlwk.png",M.La Liga tv opcion 2
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png",M.La Liga 2
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
-#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2 720" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png",M.La Liga 2 720
+#EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 2 720" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986102/LaLigaTV_2_por_Movistar_Plus2B_2023_wdrfcf.png",M.La Liga 2 opcion 2
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075520/LaLigaTV_3_por_Movistar_Plus2B_2023_ycawih.png",M.La Liga 3
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
