@@ -79,6 +79,12 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1 group-title="M.La Liga" tvg-id="M.La Liga 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731075748/LaLigaTV_6_por_Movistar_Plus_2B_2023_mndxs3.webp",M.La Liga 6
 acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
+#EXTINF:-1 group-title="L.Liga Hypermotion" tvg-id="L.Liga Hypermotion" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731166427/LaLiga_Hypermotion_H_ncxbb3.png",L.Liga Hypermotion
+acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
+#EXTINF:-1 group-title="L.Liga Hypermotion" tvg-id="L.Liga Hypermotion 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731166427/LaLiga_Hypermotion_H_ncxbb3.png",L.Liga Hypermotion 2
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="L.Liga Hypermotion" tvg-id="L.Liga Hypermotion 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731166427/LaLiga_Hypermotion_H_ncxbb3.png",L.Liga Hypermotion 3
+acestream://20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M.Liga de Campeones 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M.Liga de Campeones 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980662/Liga_de_Campeones_2_por_Movistar_Plus-_2023_juxjb0.png",M.Liga de Campeones 2
