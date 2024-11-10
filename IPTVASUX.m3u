@@ -1,12 +1,18 @@
 #EXTM3U 
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 1
+#EXTINF:-1 group-title="UK" tvg-id="TNT Sports 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 2
+#EXTINF:-1 group-title="UK" tvg-id="TNT Sports 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 2
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 3 
+#EXTINF:-1 group-title="UK" tvg-id="TNT Sports 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 3 
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="BT Sport UK" tvg-id="BT Sport 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",BT Sport 4
+#EXTINF:-1 group-title="UK" tvg-id="TNT Sports 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 4
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="UK" tvg-id="Sky Sports Main Event" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Main_Event_Stacked_cbvgc0.png",Sky Sports Main Event
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="UK" tvg-id="Sky Sports Premier League" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Premier_League_2020_j84uk3.png",Sky Sports Premier League
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="UK" tvg-id="Sky Sports Football" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Football_2020_ysmlrf.png",Sky Sports Football
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Copa" tvg-id="Copa Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",Copa Plus
 acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
 #EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1
