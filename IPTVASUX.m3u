@@ -19,12 +19,16 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/NBA_TV_2017_n6fypt.png",NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Francia" tvg-id=Being Sports France 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",Bein Sports France 1
+#EXTINF:-1 group-title="Francia" tvg-id="Being Sports France 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",Bein Sports France 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Francia" tvg-id=Being Sports France 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports2_s0thgu.png",Bein Sports France 2
+#EXTINF:-1 group-title="Francia" tvg-id="Being Sports France 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports2_s0thgu.png",Bein Sports France 2
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Francia" tvg-id=Being Sports France 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports3_hqs9ib.png",Bein Sports France 3
+#EXTINF:-1 group-title="Francia" tvg-id="Being Sports France 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports3_hqs9ib.png",Bein Sports France 3
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 group-title="Francia" tvg-id="Eleven Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731253263/Eleven_Sports_1_emhclt.png",Eleven Sport 1
+acestream://6790700151a98601e7d2259e76ea41c788e06dc6
+#EXTINF:-1 group-title="Francia" tvg-id="Eleven Sport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731253263/Eleven_Sports_2_ygsmnm.png",Eleven Sport 2
+acestream://d8be596477f67850f1902873d9404478564947c8
 #EXTINF:-1 group-title="Paises Bajos" tvg-id="Ziggo Sport" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 group-title="Paises Bajos" tvg-id="Ziggo Sport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport 2
@@ -95,11 +99,11 @@ acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985411/DAZN_LaLiga_5_2023_tbywln.png",Dazn La Liga 5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
-#EXTINF:-1 group-title="EuroSport" tvg-id="EuroSport 4K" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 4K
+#EXTINF:-1 group-title="EuroSport ES" tvg-id="EuroSport 4K" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 4K
 acestream://c525471499b936decc037ea86e0f8125ebf78c28
-#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 1
+#EXTINF:-1 group-title="EuroSport ES" tvg-id="Eurosport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 2
+#EXTINF:-1 group-title="EuroSport ES" tvg-id="Eurosport 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731084060/Eurosport__2015_r4hfiu.png",EuroSport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="M.La Liga Bar" tvg-id="M.La Liga Bar" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985895/LaLigaTV_2023_II_x6dlgu.png",M.La Liga Bar
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e 
@@ -157,13 +161,13 @@ acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M.Deportes 7" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077202/Deportes_7_por_Movistar_Plus__2023_yivy9p.png",M.Deportes 7
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 group-title="M.Golf" tvg-id="M.Golf" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083056/Golf_por_Movistar_Plus__2023_gznwol.png",M.Golf
+acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+#EXTINF:-1 group-title="M.Golf" tvg-id="M.Golf 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083055/Golf_2_por_Movistar_Plus_2B_2023_wbavpf.png",M.Golf 2
+acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="M.Otros" tvg-id="M.Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082399/movistar-plus-1_1_dxcg9b.png",M.Plus
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 group-title="M.Otros" tvg-id="#Vamos" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Vamos_por_Movistar_Plus__2023_ulzeww.png",#Vamos
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 group-title="M.Otros" tvg-id="#Ellas" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Ellas_Vamos_por_Movistar_Plus_bwk5pc.png",#Ellas
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title="M.Golf" tvg-id="M.Golf" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083056/Golf_por_Movistar_Plus__2023_gznwol.png",M.Golf
-acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
-#EXTINF:-1 group-title="M.Golf" tvg-id="M.Golf 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083055/Golf_2_por_Movistar_Plus_2B_2023_wbavpf.png",M.Golf 2
-acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
