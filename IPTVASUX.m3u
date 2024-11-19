@@ -35,17 +35,17 @@ acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
 acestream://36dfc36084b2138d3451c4700b462ac1094d693d
 #EXTINF:-1 group-title="Paises Bajos" tvg-id="Ziggo Sport 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",Eleven Sports 1
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",Eleven Sports 1
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",Eleven Sports 2
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",Eleven Sports 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",Eleven Sports 3
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",Eleven Sports 3
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",Eleven Sports 4
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",Eleven Sports 4
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",Eleven Sports 5 
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 5 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",Eleven Sports 5 
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",Eleven Sports 6 
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 6 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",Eleven Sports 6 
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Reino Unido" tvg-id="TNT Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -63,31 +63,31 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Copa del Rey" tvg-id="M+ Copa del Rey" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",Copa Plus
 acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1 opcion 2
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1 opcion 2
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986675/DAZN_2_2024_trhoya.png",Dazn 2
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986675/DAZN_2_2024_trhoya.png",Dazn 2
 acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986675/DAZN_2_2024_trhoya.png",Dazn 2 opcion 2
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986675/DAZN_2_2024_trhoya.png",Dazn 2 opcion 2
 acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986673/DAZN_3_2024_dq8lzl.png",Dazn 3
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986673/DAZN_3_2024_dq8lzl.png",Dazn 3
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986673/DAZN_3_2024_dq8lzl.png",Dazn 3 opcion 2
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986673/DAZN_3_2024_dq8lzl.png",Dazn 3 opcion 2
 acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986671/DAZN_4_2024_r10rej.png",Dazn 4
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986671/DAZN_4_2024_r10rej.png",Dazn 4
 acestream://4e83f23945ab3e43982045f88ec31daaa4683102
-#EXTINF:-1 group-title="Dazn ES" tvg-id="Dazn 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986671/DAZN_4_2024_r10rej.png",Dazn 4 opcion 2
+#EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986671/DAZN_4_2024_r10rej.png",Dazn 4 opcion 2
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="Dazn F1 Multicamara" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg",Dazn F1 Multicamara
+#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="DAZN F1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg",Dazn F1 Multicamara
 acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
-#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="Dazn F1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
+#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="DAZN F1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="Dazn F1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
+#EXTINF:-1 group-title="Dazn F1 ES" tvg-id="DAZN F1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg", Dazn F1
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN La Liga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",Dazn La Liga 
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",Dazn La Liga 
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985416/DAZN_LaLiga_2_2023_klgayv.png",Dazn La Liga 2
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985416/DAZN_LaLiga_2_2023_klgayv.png",Dazn La Liga 2
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985414/DAZN_LaLiga_3_2023_emmwls.png",Dazn La Liga 3 
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
