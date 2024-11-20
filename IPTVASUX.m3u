@@ -86,9 +86,11 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="Dazn F1 ES" tvg-id="DAZN F1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731083611/DAZN_F1_2024_pofmvm.svg",DAZN F1 HD
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",DAZN LaLiga HD
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c 
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",DAZN LaLiga HD
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985416/DAZN_LaLiga_2_2023_klgayv.png",DAZN LaLiga 2 HD
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb 
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985414/DAZN_LaLiga_3_2023_emmwls.png",DAZN LaLiga 3 
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985413/DAZN_LaLiga_4_2023_r3wweh.png",DAZN LaLiga 4
