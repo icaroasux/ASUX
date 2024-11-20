@@ -7,23 +7,23 @@ acestream://ce4ae0c3491acd4272340029139ba25642e2516b
 acestream://a435581e6cba56972e48cf4519d1b2af735eec2f
 #EXTINF:-1 group-title="Alemania" tvg-id="Sky Sport 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979884/Sky_Sport_2020_l5nfkm.png",Sky Sport 4
 acestream://e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997596/ESPN_bnrqoe.png",ESPN US
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997596/ESPN_bnrqoe.png",ESPN
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/ESPN2_obojwf.png",ESPN 2 US
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/ESPN2_obojwf.png",ESPN 2
 acestream://664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Estados Unidos" tvg-id= "FOX SPORTS" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997596/Fox_Sports_2012_iwiafu.png",Fox Sports 1
+#EXTINF:-1 group-title="Estados Unidos" tvg-id= "FOX SPORTS" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997596/Fox_Sports_2012_iwiafu.png",FOX SPORTS
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/FS2_logo_q0kzz4.png",Fox Sports 2
+#EXTINF:-1 group-title="Estados Unidos" tvg-id="FOX SPORTS 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/FS2_logo_q0kzz4.png",FOX SPORTS 2
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="Being Sports Xtra" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/XTRA_2_x66rg6.png",Being Sports Xtra
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/NBA_TV_2017_n6fypt.png",NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
-#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",Bein Sports France 1
+#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",beIN SPORTS 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports2_s0thgu.png",Bein Sports France 2
+#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports2_s0thgu.png",beIN SPORTS 2
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports3_hqs9ib.png",Bein Sports France 3
+#EXTINF:-1 group-title="Francia" tvg-id="beIN SPORTS 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports3_hqs9ib.png",beIN SPORTS 3
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 group-title="Paises Bajos" tvg-id="Ziggo Sport" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
@@ -35,17 +35,17 @@ acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
 acestream://36dfc36084b2138d3451c4700b462ac1094d693d
 #EXTINF:-1 group-title="Paises Bajos" tvg-id="Ziggo Sport 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979687/Ziggo_Sport_e3qhyv.png",Ziggo Sport 6
 acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",Eleven Sports 1
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",DAZN 1 HD
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",Eleven Sports 2
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",DAZN 2 HD
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",Eleven Sports 3
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",DAZN 3 HD
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",Eleven Sports 4
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 4 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",DAZN 4 HD
 acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 5 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",Eleven Sports 5 
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 5 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",DAZN 5 HD
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 6 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",Eleven Sports 6 
+#EXTINF:-1 group-title="Portugal" tvg-id="DAZN 6 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",DAZN 6 HD
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 group-title="Reino Unido" tvg-id="TNT Sport 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -55,13 +55,13 @@ acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 acestream://5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="Reino Unido" tvg-id="TNT Sport 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730979517/TNT_Sports__2023_zhbxek.png",TNT Sports 4
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Main Event" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Main_Event_Stacked_cbvgc0.png",Sky Sports Main Event
+#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Main Event" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Main_Event_Stacked_cbvgc0.png",Sky Sport Main Event
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Premier League" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Premier_League_2020_j84uk3.png",Sky Sports Premier League
+#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Premier League" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Premier_League_2020_j84uk3.png",Sky Sport Premier League
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Football" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Football_2020_ysmlrf.png",Sky Sports Football
+#EXTINF:-1 group-title="Reino Unido" tvg-id="Sky Sport Football" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731244432/Sky_Sports_Football_2020_ysmlrf.png",Sky Sport Football
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Copa del Rey" tvg-id="M+ Copa del Rey" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",Copa Plus
+#EXTINF:-1 group-title="Copa del Rey" tvg-id="M+ Copa del Rey" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",M+ Copa del Rey
 acestream://307b6e84ca9620b3f7a13af143c9e4019752756a
 #EXTINF:-1 group-title="Dazn ES" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",Dazn 1
 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
