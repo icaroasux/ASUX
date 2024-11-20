@@ -161,9 +161,9 @@ acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
 acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="M.Otros" tvg-id="M.Plus" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082399/movistar-plus-1_1_dxcg9b.png",M.Plus
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
-#EXTINF:-1 group-title="M.Otros" tvg-id="#Vamos" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Vamos_por_Movistar_Plus__2023_ulzeww.png",#Vamos
+#EXTINF:-1 group-title="M.Otros" tvg-id="M+ Vamos HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Vamos_por_Movistar_Plus__2023_ulzeww.png",M+ Vamos HD
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 group-title="M.Otros" tvg-id="#Ellas" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Ellas_Vamos_por_Movistar_Plus_bwk5pc.png",#Ellas
+#EXTINF:-1 group-title="M.Otros" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731082415/Ellas_Vamos_por_Movistar_Plus_bwk5pc.png",M+ Ellas Vamos HD
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title="RFEF" tvg-id="RFEF Canal 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731253652/RFEF_icon__2021_zpt761.png", RFEF Canal 1
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
