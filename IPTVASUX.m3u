@@ -7,18 +7,18 @@ acestream://897e73c9d578848f596585314ecb9ae067c0e229
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 group-title="Alemania" tvg-id="DE | Sport Digital" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736712969/Sportdigital_Fu%C3%9Fball_rrrbwk.png",DE | Sport Digital
 acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980873/DAZN_1_2024_dnuezp.png",BE | DAZN 1
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981895/DAZN_2_2024_1_mcg4lf.png",BE | DAZN 2
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980874/DAZN_3_2024_1_gjalni.png",BE | DAZN 3
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981226/DAZN_4_2024_1_zlnhbd.png",BE | DAZN 4
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981225/DAZN_5_2024_diifkk.png",BE | DAZN 5
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Belgica" tvg-id="BE | DAZN 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981224/DAZN_6_2024_es2dfo.png",BE | DAZN 6
-acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 1
+acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 2
+acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 3
+acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 4
+acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 5" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 5
+acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 group-title="Alemania" tvg-id="DE | RTL + Sport Event 6" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1736801833/Logo_RTL_sport.svg_ks7foz.png",DE | RTL + Sport Event 6
+acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997596/ESPN_bnrqoe.png",ESPN
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="ESPN 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/ESPN2_obojwf.png",ESPN 2
