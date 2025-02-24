@@ -124,11 +124,15 @@ acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title="Dazn F1 ESP" tvg-id="DAZN F1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1732267298/DAZN_F1_2024_1_jx5saq.png",DAZN F1 HD
 acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",DAZN LaLiga HD
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",DAZN LaLiga HD
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c 
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985418/DAZN_LaLiga_2023_aovl0e.png",DAZN LaLiga HD
 acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985416/DAZN_LaLiga_2_2023_klgayv.png",DAZN LaLiga 2 HD
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb 
+#EXTINF:-1 group-title="Dazn La Liga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985416/DAZN_LaLiga_2_2023_klgayv.png",DAZN LaLiga 2 HD
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985414/DAZN_LaLiga_3_2023_emmwls.png",DAZN LaLiga 3 
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 group-title="Dazn La Liga" tvg-id="Dazn La Liga 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730985413/DAZN_LaLiga_4_2023_r3wweh.png",DAZN LaLiga 4
@@ -164,9 +168,11 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="L.Liga Hypermotion" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731166427/LaLiga_Hypermotion_H_ncxbb3.png",LaLiga TV Hypermotion 3
 acestream://20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M+ Liga de Campeones HD
-acestream://775abd8697715c48a357906d40734ccd2a10513c
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980582/M.L.C_1_fq6rvb.png",M+ Liga de Campeones HD
+acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980662/Liga_de_Campeones_2_por_Movistar_Plus-_2023_juxjb0.png",M+ Liga de Campeones 2 HD
-acestream://c070cdb701fc46bb79d17568d99fc64620443d63
+acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980661/Liga_de_Campeones_3_por_Movistar_Plus-_2023_vee64k.png",M+ Liga de Campeones 3 HD
 acestream://0b348cc1ae499e810729661878764a0fab88ab69
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980660/Liga_de_Campeones_4_por_Movistar_Plus-_2023_lflyrn.png",M+ Liga de Campeones 4
@@ -182,7 +188,7 @@ acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
 #EXTINF:-1 group-title="M.Liga de Campeones" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730980658/Liga_de_Campeones_9_por_Movistar_Plus-_2023_vjaemh.png",M+ Liga de Campeones 9
 acestream://2d7c4cfb3987b652a779afc894cca2fccbbacf21
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077206/Deportes_por_Movistar_Plus__2023_rvkyys.png", M+ Deportes HD
-acestream://3a74d9869b13e763476800740c6625e715a39879
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_2_por_Movistar_Plus_2B_2023_ly7t2w.png",M+ Deportes 2 HD
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 group-title="M.Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731077203/Deportes_3_por_Movistar_Plus_2B_2023_sinsnf.png",M+ Deportes 3
