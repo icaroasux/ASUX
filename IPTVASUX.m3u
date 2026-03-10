@@ -32,7 +32,7 @@ acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Estados Unidos" tvg-id="NBA TV" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730997595/NBA_TV_2017_n6fypt.png",NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Francia" tvg-id="FR | beIN SPORTS 1" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",FR | beIN SPORTS 1
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+acestream://f3f0b6a860e40e368f1b4d7bd573d465c19da63d
 #EXTINF:-1 group-title="Francia" tvg-id="FR | beIN SPORTS 2" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports2_s0thgu.png",FR | beIN SPORTS 2
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 group-title="Francia" tvg-id="FR | beIN SPORTS 3" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports3_hqs9ib.png",FR | beIN SPORTS 3
@@ -111,6 +111,8 @@ acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 group-title="Rusia" tvg-id="Okko Sport HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1748456503/Okko-Sport-onlajn-pryamye-translyatsii-matchej-Obzor-servisa_eqohbn.jpg",Okko Sport FHD
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:-1 group-title="Turquia" tvg-id="Bein Sport 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1731252631/BeinSports1_ldzaii.png",Bein Sport 1 HD
+acestream://118416583faa3fb4f03800173429b6b844b43a52  
 #EXTINF:-1 group-title="Copa del Rey" tvg-id="M+ Copa del Rey" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730981449/Copa_del_Rey_2021_alt_j4smzl.png",M+ Copa del Rey
 acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 group-title="Dazn ESP" tvg-id="DAZN 1 HD" tvg-logo="https://res.cloudinary.com/dygce9cvo/image/upload/v1730986677/DAZN_2019_logo_owct1m.png",DAZN 1 HD
